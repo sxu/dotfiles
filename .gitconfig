@@ -1,0 +1,27 @@
+[core]
+    editor = nvim
+
+[user]
+    name = Shen Chen Xu
+    email = shenchenxu@gmail.com
+
+[alias]
+    ci = commit
+    co = checkout
+    sl = log --graph --abbrev-commit --all
+    st = status
+
+[difftool "nvim"]
+    cmd = nvim -d $LOCAL $REMOTE
+
+[diff]
+    tool = nvim
+
+[mergetool "nvim"]
+    cmd = nvim -d $MERGED $LOCAL $REMOTE -c 'wincmd J'
+
+[merge]
+    tool = nvim
+
+[push]
+    default = simple
