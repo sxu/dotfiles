@@ -3,7 +3,7 @@
         {
             "background": "#111111",
             "black": "#414B50",
-            "blue": "#7FBBB3",
+            "blue": "#3A94C5",
             "brightBlack": "#475258",
             "brightBlue": "#7FBBB3",
             "brightCyan": "#83C092",
@@ -15,13 +15,13 @@
             "cursorColor": "#FFFFFF",
             "cyan": "#83C092",
             "foreground": "#D3C6AA",
-            "green": "#A7C080",
+            "green": "#93B259",
             "name": "Everforest Hard Dark",
-            "purple": "#D699B6",
-            "red": "#E67E80",
+            "purple": "#DF69BA",
+            "red": "#F85552",
             "selectionBackground": "#FFFFFF",
             "white": "#D3C6AA",
-            "yellow": "#DBBC7F"
+            "yellow": "#DFA000"
         },
         {
             "background" : "#111111",
